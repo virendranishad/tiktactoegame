@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tiktactoegame/static/css/main.bf9a67a4.chunk.css",
+    "main.js": "/tiktactoegame/static/js/main.c8669172.chunk.js",
+    "main.js.map": "/tiktactoegame/static/js/main.c8669172.chunk.js.map",
+    "runtime-main.js": "/tiktactoegame/static/js/runtime-main.7e647c4b.js",
+    "runtime-main.js.map": "/tiktactoegame/static/js/runtime-main.7e647c4b.js.map",
+    "static/js/2.8be078e2.chunk.js": "/tiktactoegame/static/js/2.8be078e2.chunk.js",
+    "static/js/2.8be078e2.chunk.js.map": "/tiktactoegame/static/js/2.8be078e2.chunk.js.map",
+    "index.html": "/tiktactoegame/index.html",
+    "precache-manifest.d4aebb89616d020214981438cb6cc618.js": "/tiktactoegame/precache-manifest.d4aebb89616d020214981438cb6cc618.js",
+    "service-worker.js": "/tiktactoegame/service-worker.js",
+    "static/css/main.bf9a67a4.chunk.css.map": "/tiktactoegame/static/css/main.bf9a67a4.chunk.css.map",
+    "static/js/2.8be078e2.chunk.js.LICENSE.txt": "/tiktactoegame/static/js/2.8be078e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e647c4b.js",
+    "static/js/2.8be078e2.chunk.js",
+    "static/css/main.bf9a67a4.chunk.css",
+    "static/js/main.c8669172.chunk.js"
+  ]
+}
